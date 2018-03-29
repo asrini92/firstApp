@@ -1,0 +1,19 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "trialapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asrini92/firstapp.git"
+  },
+  "author": "Srinivasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asrini92/firstapp/issues"
+  },
+  "homepage": "https://github.com/asrini92/firstapp#readme"
+}
